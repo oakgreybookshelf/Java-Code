@@ -1,4 +1,4 @@
-package Practice3;
+package practice3;
 
 import java.io.File;
 import java.io.FileNotFoundException;
